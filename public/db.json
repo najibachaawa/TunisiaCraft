@@ -1,0 +1,73 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "sku": 18644119330491312,
+        "title": "traditional bags ",
+        "description": "Beautiful traditional bags, trendy to take everything everywhere",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "price": 10,
+        "isFreeShipping": true,
+        "img":"/assets/img/coufin.PNG"
+      },
+  
+      {
+        "id": 2,
+        "sku": 11854078013954528,
+        "title": "traditional dress",
+        "description": "WHEN THE TUNISIAN CRAFTSMANSHIP MEETS BOHO-CHIC",
+        "availableSizes": ["X", "M", "L"],
+        "price": 14.9,
+        "isFreeShipping": true,
+        "img":"/assets/img/robe.PNG"
+      },
+  
+      {
+        "id": 3,
+        "sku": 876661122392077,
+        "title": "Tradional Dress",
+        "description": " WHEN THE TUNISIAN CRAFTSMANSHIP MEETS BOHO-CHIC",
+       
+        "availableSizes": ["X", "M", "L"],
+        "price": 14.9,
+        "isFreeShipping": true,
+        "img":"/assets/img/robe1.PNG"
+      },
+  
+      {
+        "id": 4,
+        "sku": 9197907543445677,
+        "title": "traditional bags",
+        "description": "Beautiful traditional bags, trendy to take everything everywhere",
+        "availableSizes": ["XL"],
+        "price": 25.9,
+        "isFreeShipping": false,
+        "img":"/assets/img/couffin1.PNG"
+      },
+  
+      {
+        "id": 5,
+        "sku": 10547961582846888,
+        "title": "Ceramic",
+        "description": "The Wonderful World Of Tunisian Ceramics",
+        "availableSizes": ["X", "L", "XL"],
+        "price": 10.9,
+        "isFreeShipping": false,
+        "img":"/assets/img/ceramic.PNG"
+      },
+  
+      {
+        "id": 6,
+        "sku": 6090484789343891,
+        "title": "khlel ...",
+        "description": "THE BEAUTY OF THE TUNISIAN COUFFIN BETWEEN TRADITIONAL AND MODERN",
+        "availableSizes": ["XL", "XXL"],
+        "price": 49.9,
+        "isFreeShipping": false,
+        "img":"/assets/img/khlel.PNG"
+
+      }
+  
+      
+    ]
+  }
